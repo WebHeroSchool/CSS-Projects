@@ -1,3 +1,7 @@
+.body {
+	font-family: "Roboto", sans-serif;
+}
+
 .main {
 	background-color: #F5FFFA;
 }
@@ -6,25 +10,22 @@
 	text-align: center;
 	font-weight: bold;
 	font-stretch: expanded;
-	font-family: "Georgia", serif;
+	font-family: "Pangolin", cursive;
 }
 
 .body__text {
 	text-align: center;
 	font-stretch: expanded;
-	font-family: "Georgia", serif;
 }
 
 .blockquote {
 	text-align: center;
 	quotes: "\2018" "\2019";
 	font-style: italic;
-	font-family: "Georgia", serif;
 }
 
 .article__headline {
 	text-align: center;
-	font-family: "Georgia", serif;
 	text-decoration-style: solid;
 	text-decoration-color: #00FA9A;
 }
@@ -32,7 +33,6 @@
 .article__text {
 	text-align: center;
 	text-indent: each-line;
-	font-family: "Georgia", serif;
 }
 
 .img {
@@ -49,7 +49,6 @@
 .article__text2 {
 	text-align: center;
 	font-style: italic;
-	font-family: "Georgia", serif;
 	background-position: center;
 	background-color: #98FB98;
 }
@@ -57,7 +56,6 @@
 .footer__headline {
 	text-align: center;
 	font-weight: bold;
-	font-family: "Georgia", serif;
 }
 
 .footer__text {
@@ -68,5 +66,4 @@
 
 .form__button {
 	text-align: left;
-	font-family: "Georgia", serif;
 }
