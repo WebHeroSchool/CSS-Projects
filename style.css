@@ -1,4 +1,4 @@
-* {
+.body {
 	font-family: "Roboto", sans-serif;
 }
 
@@ -16,14 +16,12 @@
 .body__text {
 	text-align: center;
 	font-stretch: expanded;
-	font-family: "Roboto", sans-serif;
 }
 
 .blockquote {
 	text-align: center;
 	quotes: "\2018" "\2019";
 	font-style: italic;
-	font-family: "Roboto", sans-serif;
 }
 
 .article__headline {
@@ -36,7 +34,6 @@
 .article__text {
 	text-align: center;
 	text-indent: each-line;
-	font-family: "Roboto", sans-serif;
 }
 
 .img {
@@ -61,7 +58,6 @@
 .footer__headline {
 	text-align: center;
 	font-weight: bold;
-	font-family:"Roboto", sans-serif;
 }
 
 .footer__text {
@@ -72,5 +68,4 @@
 
 .form__button {
 	text-align: left;
-	font-family: "Roboto", sans-serif;
 }
